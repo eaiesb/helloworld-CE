@@ -1,2 +1,2 @@
 # helloworld-CE
- Community edition mule
+ Community edition mule ce
